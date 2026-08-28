@@ -1,27 +1,27 @@
 # Hi, I'm Daksh 👋
 
-### B.Tech CSE '29 @ Manipal University Jaipur
+B.Tech CSE '29 @ Manipal University Jaipur
 
-I'm a Computer Science student interested in Full-Stack Development,
-Artificial Intelligence, and Data Structures & Algorithms.
+💻 Full-Stack Developer | 🤖 AI | 🧠 DSA
 
-## 🚀 Currently Building
+I build practical applications and solve challenging problems.
+I enjoy learning new technologies and turning ideas into real projects.
+Currently focused on improving my development and problem-solving skills.
 
-**Loomis** — An AI-powered learning and job-readiness platform.
+⚡ Languages: C++ • Java • JavaScript • Python
 
-## 🛠️ Technologies
+🌐 Frontend: React • HTML • CSS
 
-C++ • Java • JavaScript • React • Django • MySQL
+⚙️ Backend: Django • Node.js
 
-## 📚 Currently Learning
+🗄️ Database: MySQL • MongoDB
 
-- Advanced DSA
-- Backend Development
-- AI/ML
-- System Design
+🧠 Currently learning: Advanced DSA • AI/ML • Backend Development
 
-## 🎯 Goals
+🚀 Building: Loomis • JalTurn
 
-- Build production-quality projects
-- Contribute to open source
-- Secure software engineering internships
+🌱 Exploring: Open Source • GSoC • Software Engineering
+
+🎯 Goal: Become a strong Software Engineer
+
+🔗 LinkedIn: https://www.linkedin.com/in/daksh-chaudhary-533396427/
