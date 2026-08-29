@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE '29 @ Manipal University Jaipur</h3>
 
 <p align="center">
-  <strong>💻 Full-Stack Developer | 🤖 AI Enthusiast | 🧠 DSA Problem Solver</strong>
+  <strong>💻 Full-Stack Developer | 🤖 AI-Powered Applications | 🧠 DSA Problem Solver</strong>
 </p>
 
 <p align="center">
